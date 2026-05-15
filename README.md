@@ -1,4 +1,4 @@
-# Finance dashboard
+# Finance Dashboard
 
 A modern, responsive finance dashboard built with React and Vite for tracking transactions, visualizing spending patterns, and managing financial data with an intuitive interface.
 
